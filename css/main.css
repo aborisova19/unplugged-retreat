@@ -235,7 +235,7 @@ footer .copyright {
 .hero-area {
   height: 500px;
   color: #ffffff;
-  background: url("../img/hero-image.jpg");
+  background: url("../img/hero-image.jpg") center no-repeat #333;
   background-size: cover;
   display: flex;
   justify-content: center;
