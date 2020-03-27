@@ -663,6 +663,10 @@ input[type=button] {
       width: 46%;
     }
 
+    .map figure {
+      padding-bottom: 65%;
+    }
+
     .contact-section .content-wrapper h2 {
       width: 80%;
      }
@@ -816,6 +820,10 @@ input[type=button] {
 
     .contact-content h4 {
       font-size: 1.875em;
+    }
+
+    .map figure {
+      padding-bottom: 60%;
     }
 
 
